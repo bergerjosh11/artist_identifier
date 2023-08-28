@@ -1,4 +1,4 @@
-# artist_identifier
+# Artist Identifier
 
 in command line, run:
 python who_painted_this.py image_url
